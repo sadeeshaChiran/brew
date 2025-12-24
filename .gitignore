@@ -212,3 +212,5 @@
 
 # Ignore tmp files
 **/tmp/
+config.bat
+node_modules
